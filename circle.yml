@@ -14,4 +14,4 @@ dependencies:
 test:
   override:
     - dotnet restore
-    - dotnet test ./EuroDraw.Tests/
+    #- dotnet test ./EuroDraw.Tests/
